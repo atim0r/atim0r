@@ -16,15 +16,20 @@
 
 ---
 
-
-<h2>Stardew Valley</h2>
+<h2>🌌 Stardew Valley × Astropy</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/★_STARDEW_VALLEY_★-Cultivando_commits_diariamente-1c1710?style=for-the-badge&labelColor=6b5530&color=7ec850" alt="Stardew Valley Theme"/>
+  <img src="https://img.shields.io/badge/★_OBSERVATÓRIO_ESTELAR_★-Mapeando_commits_no_cosmos-1c1710?style=for-the-badge&labelColor=2a1c3d&color=7ec850" alt="Stardew Astropy Theme"/>
 </p>
 
 <table align="center">
   <tr>
+    <td align="center" width="130">
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>🔭 Observação</b><br/>
+        <sub>Astropy &<br/>Dados</sub>
+      </a>
+    </td>
     <td align="center" width="130">
       <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
         <b>⛏️ Mineração</b><br/>
@@ -35,12 +40,6 @@
       <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
         <b>🌾 Cultivo</b><br/>
         <sub>Frontend &<br/>UI/UX</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>🎣 Pesca</b><br/>
-        <sub>APIs &<br/>Integrações</sub>
       </a>
     </td>
     <td align="center" width="130">
@@ -59,71 +58,48 @@
 </table>
 
 <details>
-<summary>🎒 <b>Abrir Inventário de Código</b> (clique para explorar)</summary>
+<summary>🎒 <b>Abrir Telescópio / Inventário de Código</b> (clique para explorar)</summary>
 
 <br/>
 <p align="center">
-  <i>"Um bom software, assim como uma boa colheita, exige paciência, arquitetura sólida e dedicação diária." 🌻</i>
+  <i>"Assim como o cosmos obedece às leis da física, um bom software obedece ao Clean Code e ao SOLID." ☄️</i>
 </p>
 
-```typescript
-// Aplicando SOLID e Clean Code na nossa rotina diária 🚜
-class FazendaDesenvolvedor {
-  private energia: number;
-  private commitsDiarios: number;
+```python
+from astropy.coordinates import SkyCoord
+import astropy.units as u
+from typing import Tuple
 
-  constructor() {
-    this.energia = 100;
-    this.commitsDiarios = 0;
-  }
+class FarmObservatory:
+    """
+    Monitoramento astronômico da fazenda Stardew.
+    Desenvolvido com foco em SRP (Single Responsibility Principle) e encapsulamento seguro.
+    """
+    
+    def __init__(self, farm_latitude: float, farm_longitude: float) -> None:
+        # Encapsulamento estrito para proteger as coordenadas de alterações indevidas
+        self.__farm_location = SkyCoord(
+            ra=farm_latitude * u.degree, 
+            dec=farm_longitude * u.degree, 
+            frame='icrs'
+        )
+        self.__energy_level: int = 100
 
-  public cultivarCodigo(codigoSeguro: boolean): string {
-    if (codigoSeguro && this.energia >= 10) {
-      this.commitsDiarios++;
-      this.energia -= 10;
-      return "Colheita de código bem-sucedida! 🌾 Arquitetura mantida.";
-    }
-    return "Energia baixa ou código com cheiro ruim (code smell)... hora de refatorar ou dormir! 🛌";
-  }
-}
-```
+    def locate_iridium_meteorite(self, is_secure_environment: bool) -> Tuple[bool, str]:
+        """
+        Calcula a queda de um meteorito aplicando validações de segurança.
+        """
+        if not is_secure_environment:
+            return False, "⚠️ Alerta de segurança: Ambiente não validado. Abortando observação."
+            
+        if self.__energy_level < 20:
+            return False, "Energia baixa... vá dormir antes das 2h da manhã! 🛌"
+            
+        self.__energy_level -= 20
+        ra_deg = round(self.__farm_location.ra.degree, 2)
+        
+        return True, f"☄️ Sucesso! Meteorito de Iridium detectado nas coordenadas RA {ra_deg}°."
 
-</details>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Sementes_Plantadas-150+-6b5530?style=flat-square&labelColor=1c1710&color=7ec850" alt="Sementes"/>
-  <img src="https://img.shields.io/badge/⭐_Stardrops_Encontrados-42-6b5530?style=flat-square&labelColor=1c1710&color=f0c040" alt="Stardrops"/>
-  <img src="https://img.shields.io/badge/💰_Ouro_Acumulado-999G-6b5530?style=flat-square&labelColor=1c1710&color=e8822a" alt="Gold"/>
-</p>
-
----
-
-<h2>GitHub Stats</h2>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimoreira&hide_border=true&background=1c1710&ring=7ec850&fire=f0c040&currStreakLabel=f0c040&sideLabels=f5e6c8&currStreakNum=f5e6c8&sideNums=f5e6c8&dates=6b5530" alt="GitHub Streak" width="600"/>
-</p>
-
----
-
-<h2>Tecnologias</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,spring,nestjs,java,python" alt="Tech Stack"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,aws,git,github,azure,jenkins,docker" alt="Tools"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karimoreira&color=7ec850&style=flat-square&label=🌱+Visitantes" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/karimoreira/"><img src="https://img.shields.io/badge/GitHub-karimoreira-f5e6c8?style=for-the-badge&logo=github&logoColor=f5e6c8&labelColor=1c1710&color=6b5530" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/atiliomoreira"><img src="https://img.shields.io/badge/LinkedIn-atiliomoreira-50a0e8?style=for-the-badge&logo=linkedin&logoColor=50a0e8&labelColor=1c1710&color=6b5530" alt="LinkedIn"/></a>
-  <a href="https://atiliodev.com"><img src="https://img.shields.io/badge/Portfolio-atiliodev.com-7ec850?style=for-the-badge&logo=googlechrome&logoColor=7ec850&labelColor=1c1710&color=6b5530" alt="Portfolio"/></a>
-</p>
+# Instanciando e testando nosso código limpo sob as estrelas de Pelican Town 🌌
+observatory = FarmObservatory(farm_latitude=45.5, farm_longitude=-122.6)
+status, message = observatory.locate_iridium_meteorite(is_secure_environment=True)
