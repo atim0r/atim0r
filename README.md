@@ -1,156 +1,106 @@
-<h1 align="center">
-  Kari Atílio Moreira
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=140&section=header"/>
+
+<h1 align="center">Kari Atílio Moreira</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7EC850&center=true&vCenter=true&width=500&lines=%F0%9F%8C%BE+Fullstack+Developer;%E2%98%81%EF%B8%8F+Cloud+Explorer;%F0%9F%94%AD+Stargazer;%E2%9B%8F%EF%B8%8F+criador+do+OpenXNAX" alt="Typing SVG" />
+  Desenvolvedor 
 </p>
 
 <p align="center">
-  <a href="https://github.com/karimoreira?tab=repositories"><img src="https://img.shields.io/badge/📦_Repos-62-7ec850?style=flat-square&labelColor=1c1710" alt="Repos"/></a>
-  <a href="https://github.com/karimoreira?tab=followers"><img src="https://img.shields.io/badge/🌾_Followers-70-f0c040?style=flat-square&labelColor=1c1710" alt="Followers"/></a>
-  <a href="https://github.com/karimoreira?tab=stars"><img src="https://img.shields.io/badge/⭐_Stars-11-e8822a?style=flat-square&labelColor=1c1710" alt="Stars"/></a>
-  <a href="https://atiliodev.com"><img src="https://img.shields.io/badge/🏠_atiliodev.com-50a0e8?style=flat-square&labelColor=1c1710" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/atiliomoreira"><img src="https://img.shields.io/badge/💼_LinkedIn-50a0e8?style=flat-square&labelColor=1c1710" alt="LinkedIn"/></a>
+  Atuo em projetos de front-end, back-end e também em contextos ligados a Astropy e computação aplicada.
 </p>
 
 ---
 
-<h2>🌌 Stardew Valley × Astropy</h2>
+## About me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/★_OBSERVATÓRIO_ESTELAR_★-Mapeando_commits_no_cosmos-1c1710?style=for-the-badge&labelColor=2a1c3d&color=7ec850" alt="Stardew Astropy Theme"/>
+- Full-stack developer com atuação em front-end e back-end
+- Experiência com aplicações web, APIs, integração com bancos de dados e cloud
+- Interesse em arquitetura de software, clean code, SOLID e soluções escaláveis
+- Também exploro Astropy, computação no geral e voltada a dados e processamento científico
+
+---
+
+## Tech Stack
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>🔭 Observação</b><br/>
-        <sub>Mapeamento Estelar</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>⛏️ Mineração</b><br/>
-        <sub>Backend &<br/>Databases</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>🌾 Cultivo</b><br/>
-        <sub>Frontend &<br/>UI/UX</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>🌲 Coleta</b><br/>
-        <sub>Cloud &<br/>DevOps</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
-        <b>⚔️ Combate</b><br/>
-        <sub>Testes &<br/>Debugs</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>🎒 **Telescópio / Inventário Astropy** (clique para explorar)</summary>
-
-<br/>
-<p align="center">
-  <i>"Um bom astrônomo, assim como um bom fazendeiro, precisa de paciência, boa arquitetura e observações diárias." ☄️</i>
+### Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring" />
 </p>
 
-<table align="center" style="border: 2px solid #7EC850; border-radius: 8px; padding: 10px;">
-  <tr>
-    <th align="center" colspan="2" style="color: #7EC850;"><h3>Mapeamento Estelar Astropy</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="60"><p style="font-size: 24px;">🔭</p></td>
-    <td align="left">
-      <a href="https://docs.astropy.org/en/stable/coordinates/index.html" style="text-decoration: none; color: white;">
-        <b>Mestre das Coordenadas</b><br/>
-        Level 10 | Localize qualquer cometa sobre a Fazenda Stardew.
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><p style="font-size: 24px;">📜</p></td>
-    <td align="left">
-      <a href="https://docs.astropy.org/en/stable/units/index.html" style="text-decoration: none; color: white;">
-        <b>Físico Teórico</b><br/>
-        Level 9 | Converte anos-luz em milímetros e unidades de queijo.
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><p style="font-size: 24px;">🧮</p></td>
-    <td align="left">
-      <a href="https://docs.astropy.org/en/stable/table/index.html" style="text-decoration: none; color: white;">
-        <b>Arquivista de Dados</b><br/>
-        Level 10 | Lê e organiza catálogos estelares maiores que o celeiro.
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><p style="font-size: 24px;">🌌</p></td>
-    <td align="left">
-      <a href="https://docs.astropy.org/en/stable/cosmology/index.html" style="text-decoration: none; color: white;">
-        <b>Pensador Cósmico</b><br/>
-        Level 8 | Calcula o tamanho e a idade do universo... e do vale.
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><p style="font-size: 24px;">💻</p></td>
-    <td align="left">
-      <a href="https://docs.astropy.org/en/stable/modeling/index.html" style="text-decoration: none; color: white;">
-        <b>Mestre dos Ajustes</b><br/>
-        Level 9 | Ajusta curvas de dados perfeitamente, como plantar sementes em fileiras.
-      </a>
-    </td>
-  </tr>
-</table>
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+</p>
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Sementes_Plantadas-150+-6b5530?style=flat-square&labelColor=1c1710&color=7ec850" alt="Sementes"/>
-  <img src="https://img.shields.io/badge/⭐_Stardrops_Encontrados-42-6b5530?style=flat-square&labelColor=1c1710&color=f0c040" alt="Stardrops"/>
-  <img src="https://img.shields.io/badge/💰_Ouro_Acumulado-999G-6b5530?style=flat-square&labelColor=1c1710&color=e8822a" alt="Gold"/>
+### Markup, XML and Java Web
+<p>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/XSL-1F6FEB?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-FF8C00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+### Astronomy / Scientific Computing
+<p>
+  <img src="https://img.shields.io/badge/Astropy-311C87?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-<h2>GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimoreira&hide_border=true&background=1c1710&ring=7ec850&fire=f0c040&currStreakLabel=f0c040&sideLabels=f5e6c8&currStreakNum=f5e6c8&sideNums=f5e6c8&dates=6b5530" alt="GitHub Streak" width="600"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimoreira&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=karimoreira&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimoreira&theme=tokyonight" />
 </p>
 
 ---
 
-<h2>Tecnologias</h2>
+
+## Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,spring,nestjs,java,python" alt="Tech Stack"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,aws,git,github,azure,jenkins,docker" alt="Tools"/>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Gmail-222?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/atiliomoreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://atiliodev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karimoreira&color=7ec850&style=flat-square&label=🌱+Visitantes" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=karimoreira&label=Profile%20views&color=2563eb&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/karimoreira/"><img src="https://img.shields.io/badge/GitHub-karimoreira-f5e6c8?style=for-the-badge&logo=github&logoColor=f5e6c8&labelColor=1c1710&color=6b5530" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/atiliomoreira"><img src="https://img.shields.io/badge/LinkedIn-atiliomoreira-50a0e8?style=for-the-badge&logo=linkedin&logoColor=50a0e8&labelColor=1c1710&color=6b5530" alt="LinkedIn"/></a>
-  <a href="https://atiliodev.com"><img src="https://img.shields.io/badge/Portfolio-atiliodev.com-7ec850?style=for-the-badge&logo=googlechrome&logoColor=7ec850&labelColor=1c1710&color=6b5530" alt="Portfolio"/></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
