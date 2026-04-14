@@ -52,16 +52,17 @@
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+### Astronomy / Scientific Computing
+<p>
+  <img src="https://img.shields.io/badge/Astropy-311C87?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 ### Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-### Astronomy / Scientific Computing
-<p>
-  <img src="https://img.shields.io/badge/Astropy-311C87?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 
 ---
 
@@ -86,7 +87,7 @@
 ## Contact
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:kari.atilio.m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/atiliomoreira/" target="_blank">
