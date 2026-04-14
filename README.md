@@ -1,5 +1,5 @@
 <h1 align="center">
-  Kari Atílio Moreira 
+  Kari Atílio Moreira
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@
     <td align="center" width="130">
       <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
         <b>🔭 Observação</b><br/>
-        <sub>Astropy &<br/>Dados</sub>
+        <sub>Mapeamento Estelar</sub>
       </a>
     </td>
     <td align="center" width="130">
@@ -58,48 +58,99 @@
 </table>
 
 <details>
-<summary>🎒 <b>Abrir Telescópio / Inventário de Código</b> (clique para explorar)</summary>
+<summary>🎒 **Telescópio / Inventário Astropy** (clique para explorar)</summary>
 
 <br/>
 <p align="center">
-  <i>"Assim como o cosmos obedece às leis da física, um bom software obedece ao Clean Code e ao SOLID." ☄️</i>
+  <i>"Um bom astrônomo, assim como um bom fazendeiro, precisa de paciência, boa arquitetura e observações diárias." ☄️</i>
 </p>
 
-```python
-from astropy.coordinates import SkyCoord
-import astropy.units as u
-from typing import Tuple
+<table align="center" style="border: 2px solid #7EC850; border-radius: 8px; padding: 10px;">
+  <tr>
+    <th align="center" colspan="2" style="color: #7EC850;"><h3>Mapeamento Estelar Astropy</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="60"><p style="font-size: 24px;">🔭</p></td>
+    <td align="left">
+      <a href="https://docs.astropy.org/en/stable/coordinates/index.html" style="text-decoration: none; color: white;">
+        <b>Mestre das Coordenadas</b><br/>
+        Level 10 | Localize qualquer cometa sobre a Fazenda Stardew.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><p style="font-size: 24px;">📜</p></td>
+    <td align="left">
+      <a href="https://docs.astropy.org/en/stable/units/index.html" style="text-decoration: none; color: white;">
+        <b>Físico Teórico</b><br/>
+        Level 9 | Converte anos-luz em milímetros e unidades de queijo.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><p style="font-size: 24px;">🧮</p></td>
+    <td align="left">
+      <a href="https://docs.astropy.org/en/stable/table/index.html" style="text-decoration: none; color: white;">
+        <b>Arquivista de Dados</b><br/>
+        Level 10 | Lê e organiza catálogos estelares maiores que o celeiro.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><p style="font-size: 24px;">🌌</p></td>
+    <td align="left">
+      <a href="https://docs.astropy.org/en/stable/cosmology/index.html" style="text-decoration: none; color: white;">
+        <b>Pensador Cósmico</b><br/>
+        Level 8 | Calcula o tamanho e a idade do universo... e do vale.
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><p style="font-size: 24px;">💻</p></td>
+    <td align="left">
+      <a href="https://docs.astropy.org/en/stable/modeling/index.html" style="text-decoration: none; color: white;">
+        <b>Mestre dos Ajustes</b><br/>
+        Level 9 | Ajusta curvas de dados perfeitamente, como plantar sementes em fileiras.
+      </a>
+    </td>
+  </tr>
+</table>
 
-class FarmObservatory:
-    """
-    Monitoramento astronômico da fazenda Stardew.
-    Desenvolvido com foco em SRP (Single Responsibility Principle) e encapsulamento seguro.
-    """
-    
-    def __init__(self, farm_latitude: float, farm_longitude: float) -> None:
-        # Encapsulamento estrito para proteger as coordenadas de alterações indevidas
-        self.__farm_location = SkyCoord(
-            ra=farm_latitude * u.degree, 
-            dec=farm_longitude * u.degree, 
-            frame='icrs'
-        )
-        self.__energy_level: int = 100
+</details>
 
-    def locate_iridium_meteorite(self, is_secure_environment: bool) -> Tuple[bool, str]:
-        """
-        Calcula a queda de um meteorito aplicando validações de segurança.
-        """
-        if not is_secure_environment:
-            return False, "⚠️ Alerta de segurança: Ambiente não validado. Abortando observação."
-            
-        if self.__energy_level < 20:
-            return False, "Energia baixa... vá dormir antes das 2h da manhã! 🛌"
-            
-        self.__energy_level -= 20
-        ra_deg = round(self.__farm_location.ra.degree, 2)
-        
-        return True, f"☄️ Sucesso! Meteorito de Iridium detectado nas coordenadas RA {ra_deg}°."
+<p align="center">
+  <img src="https://img.shields.io/badge/🌱_Sementes_Plantadas-150+-6b5530?style=flat-square&labelColor=1c1710&color=7ec850" alt="Sementes"/>
+  <img src="https://img.shields.io/badge/⭐_Stardrops_Encontrados-42-6b5530?style=flat-square&labelColor=1c1710&color=f0c040" alt="Stardrops"/>
+  <img src="https://img.shields.io/badge/💰_Ouro_Acumulado-999G-6b5530?style=flat-square&labelColor=1c1710&color=e8822a" alt="Gold"/>
+</p>
 
-# Instanciando e testando nosso código limpo sob as estrelas de Pelican Town 🌌
-observatory = FarmObservatory(farm_latitude=45.5, farm_longitude=-122.6)
-status, message = observatory.locate_iridium_meteorite(is_secure_environment=True)
+---
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimoreira&hide_border=true&background=1c1710&ring=7ec850&fire=f0c040&currStreakLabel=f0c040&sideLabels=f5e6c8&currStreakNum=f5e6c8&sideNums=f5e6c8&dates=6b5530" alt="GitHub Streak" width="600"/>
+</p>
+
+---
+
+<h2>Tecnologias</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,spring,nestjs,java,python" alt="Tech Stack"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,aws,git,github,azure,jenkins,docker" alt="Tools"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karimoreira&color=7ec850&style=flat-square&label=🌱+Visitantes" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karimoreira/"><img src="https://img.shields.io/badge/GitHub-karimoreira-f5e6c8?style=for-the-badge&logo=github&logoColor=f5e6c8&labelColor=1c1710&color=6b5530" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/atiliomoreira"><img src="https://img.shields.io/badge/LinkedIn-atiliomoreira-50a0e8?style=for-the-badge&logo=linkedin&logoColor=50a0e8&labelColor=1c1710&color=6b5530" alt="LinkedIn"/></a>
+  <a href="https://atiliodev.com"><img src="https://img.shields.io/badge/Portfolio-atiliodev.com-7ec850?style=for-the-badge&logo=googlechrome&logoColor=7ec850&labelColor=1c1710&color=6b5530" alt="Portfolio"/></a>
+</p>
