@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=140&section=header"/>
+
 
 <h1 align="center">Kari Atílio Moreira</h1>
 <h3 align="center">Full-Stack Developer</h3>
@@ -36,7 +36,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,jdbc" />
 </p>
 
 <p>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### Markup, XML and Java Web
+### Markup, XML e Java Web
 <p>
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" />
   <img src="https://img.shields.io/badge/XSL-1F6FEB?style=for-the-badge&logo=w3c&logoColor=white" />
@@ -52,10 +52,11 @@
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### Astronomy / Scientific Computing
+### Astrofísica, computação científica
 <p>
   <img src="https://img.shields.io/badge/Astropy-311C87?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 ### Cloud
 <p>
@@ -68,10 +69,6 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimoreira&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=karimoreira&theme=tokyonight&hide_border=true" />
@@ -104,4 +101,4 @@
   <img src="https://komarev.com/ghpvc/?username=karimoreira&label=Profile%20views&color=2563eb&style=flat" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+
