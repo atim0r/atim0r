@@ -100,10 +100,6 @@ class FazendaDesenvolvedor {
 
 <h2>GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&hide_border=true&bg_color=1c1710&title_color=7ec850&text_color=f5e6c8&icon_color=f0c040&ring_color=7ec850" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimoreira&layout=compact&hide_border=true&bg_color=1c1710&title_color=7ec850&text_color=f5e6c8" alt="Top Languages" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karimoreira&hide_border=true&background=1c1710&ring=7ec850&fire=f0c040&currStreakLabel=f0c040&sideLabels=f5e6c8&currStreakNum=f5e6c8&sideNums=f5e6c8&dates=6b5530" alt="GitHub Streak" width="600"/>
