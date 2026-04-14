@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⛏️ Kari Atílio Moreira ⛏️
+  Kari Atílio Moreira 
 </h1>
 
 <p align="center">
@@ -16,12 +16,11 @@
 
 ---
 
+<h2>Inventário de Skills</h2>
 
-<h2>⚔️ Inventário de Skills</h2>
+<h3>Frontend</h3>
 
-<h3>🎀 Frontend</h3>
 
-```
 🌐 HTML        ████████████████████ Lv.10
 🎨 CSS         ██████████████████░░ Lv.9
 ⚡ JavaScript  ████████████████████ Lv.10
@@ -29,9 +28,9 @@
 ▲  Next.js     ████████████████░░░░ Lv.8
 ```
 
-<h3>🛡️ Backend</h3>
+<h3>Backend</h3>
 
-```
+```text
 💚 Node.js      ██████████████████░░ Lv.9
 🍃 Spring Boot  ████████████████░░░░ Lv.8
 🐱 NestJS       ██████████████░░░░░░ Lv.7
@@ -40,9 +39,9 @@
 📋 XML/XSL      ████████████░░░░░░░░ Lv.6
 ```
 
-<h3>🗃️ Banco de Dados</h3>
+<h3>Banco de Dados</h3>
 
-```
+```text
 🐬 MySQL       ██████████████████░░ Lv.9
 🔴 Oracle      ████████████████░░░░ Lv.8
 🐘 PostgreSQL  ████████████████░░░░ Lv.8
@@ -51,90 +50,103 @@
 🔗 JDBC        ████████████░░░░░░░░ Lv.6
 ```
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>Cloud & DevOps</h3>
 
-```
-🌿 Git             ██████████████████░░ Lv.9
-🐙 GitHub          ██████████████████░░ Lv.9
-⚙️ GitHub Actions  ████████████████░░░░ Lv.8
-♾️ CI/CD           ████████████████░░░░ Lv.8
-☁️ AWS             ██████████████░░░░░░ Lv.7
-🔷 Azure           ██████████████░░░░░░ Lv.7
-🚀 Azure DevOps    ██████████████░░░░░░ Lv.7
-🤖 Jenkins         ████████████░░░░░░░░ Lv.6
+```text
+🌿 Git            ██████████████████░░ Lv.9
+🐙 GitHub         ██████████████████░░ Lv.9
+⚙️ GitHub Actions ████████████████░░░░ Lv.8
+♾️ CI/CD          ████████████████░░░░ Lv.8
+☁️ AWS            ██████████████░░░░░░ Lv.7
+🔷 Azure          ██████████████░░░░░░ Lv.7
+🚀 Azure DevOps   ██████████████░░░░░░ Lv.7
+🤖 Jenkins        ████████████░░░░░░░░ Lv.6
 ```
 
 ---
 
-<h2>🔭 Astropy — Explorando o Universo</h2>
+<h2>Stardew Valley</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/★_ASTROPY_★-Explorando_o_universo_com_Python-0a1828?style=for-the-badge&labelColor=020010&color=0a1828&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiPvCflK3vuI88L3RleHQ+PC9zdmc+" alt="Astropy"/>
+  <img src="https://img.shields.io/badge/★_STARDEW_VALLEY_★-Cultivando_commits_diariamente-1c1710?style=for-the-badge&labelColor=6b5530&color=7ec850" alt="Stardew Valley Theme"/>
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <b>📍 Coords</b><br/>
-      <sub>SkyCoord<br/>ICRS, Galactic</sub>
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>⛏️ Mineração</b><br/>
+        <sub>Backend &<br/>Databases</sub>
+      </a>
     </td>
     <td align="center" width="130">
-      <b>📊 Tables</b><br/>
-      <sub>FITS, VOTable<br/>Data I/O</sub>
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>🌾 Cultivo</b><br/>
+        <sub>Frontend &<br/>UI/UX</sub>
+      </a>
     </td>
     <td align="center" width="130">
-      <b>📐 Units</b><br/>
-      <sub>Conversões<br/>Astronômicas</sub>
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>🎣 Pesca</b><br/>
+        <sub>APIs &<br/>Integrações</sub>
+      </a>
     </td>
     <td align="center" width="130">
-      <b>🌌 Cosmology</b><br/>
-      <sub>Parâmetros<br/>Distâncias</sub>
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>🌲 Coleta</b><br/>
+        <sub>Cloud &<br/>DevOps</sub>
+      </a>
     </td>
     <td align="center" width="130">
-      <b>⏰ Time</b><br/>
-      <sub>Escalas de<br/>Tempo</sub>
-    </td>
-    <td align="center" width="130">
-      <b>💾 FITS I/O</b><br/>
-      <sub>Read/Write<br/>Arquivos</sub>
+      <a href="https://github.com/karimoreira?tab=repositories" style="text-decoration: none;">
+        <b>⚔️ Combate</b><br/>
+        <sub>Testes &<br/>Debugs</sub>
+      </a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary>🔭 <b>Código Astropy de exemplo</b> (clique para expandir)</summary>
+<summary>🎒 <b>Abrir Inventário de Código</b> (clique para explorar)</summary>
 
 <br/>
+<p align="center">
+  <i>"Um bom software, assim como uma boa colheita, exige paciência, arquitetura sólida e dedicação diária." 🌻</i>
+</p>
 
-```python
-from astropy import units as u
-from astropy.coordinates import SkyCoord
+```typescript
+// Aplicando SOLID e Clean Code na nossa rotina diária 🚜
+class FazendaDesenvolvedor {
+  private energia: number;
+  private commitsDiarios: number;
 
-# Coordenadas da Nebulosa de Órion
-coord = SkyCoord('05h35m17.3s', '-05d23m28s', frame='icrs')
+  constructor() {
+    this.energia = 100;
+    this.commitsDiarios = 0;
+  }
 
-# Distância em parsecs
-dist = 412 * u.pc
-print(dist.to(u.lightyear))  # ~1344 ly ✨
-
-# Magnitude absoluta do Sol
-M_sun = 4.83 * u.mag
-print(f"Sol: {M_sun}")
+  public cultivarCodigo(codigoSeguro: boolean): string {
+    if (codigoSeguro && this.energia >= 10) {
+      this.commitsDiarios++;
+      this.energia -= 10;
+      return "Colheita de código bem-sucedida! 🌾 Arquitetura mantida.";
+    }
+    return "Energia baixa ou código com cheiro ruim (code smell)... hora de refatorar ou dormir! 🛌";
+  }
+}
 ```
 
 </details>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌠_Observações-150+-0a1828?style=flat-square&labelColor=020010&color=0a1828" alt="Obs"/>
-  <img src="https://img.shields.io/badge/📡_Datasets-42-0a1828?style=flat-square&labelColor=020010&color=0a1828" alt="Data"/>
-  <img src="https://img.shields.io/badge/🌌_Galáxias-∞-0a1828?style=flat-square&labelColor=020010&color=0a1828" alt="Galaxies"/>
+  <img src="https://img.shields.io/badge/🌱_Sementes_Plantadas-150+-6b5530?style=flat-square&labelColor=1c1710&color=7ec850" alt="Sementes"/>
+  <img src="https://img.shields.io/badge/⭐_Stardrops_Encontrados-42-6b5530?style=flat-square&labelColor=1c1710&color=f0c040" alt="Stardrops"/>
+  <img src="https://img.shields.io/badge/💰_Ouro_Acumulado-999G-6b5530?style=flat-square&labelColor=1c1710&color=e8822a" alt="Gold"/>
 </p>
 
 ---
 
-
-
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karimoreira&show_icons=true&hide_border=true&bg_color=1c1710&title_color=7ec850&text_color=f5e6c8&icon_color=f0c040&ring_color=7ec850" alt="GitHub Stats" height="180"/>
@@ -145,13 +157,9 @@ print(f"Sol: {M_sun}")
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karimoreira&hide_border=true&background=1c1710&ring=7ec850&fire=f0c040&currStreakLabel=f0c040&sideLabels=f5e6c8&currStreakNum=f5e6c8&sideNums=f5e6c8&dates=6b5530" alt="GitHub Streak" width="600"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimoreira&bg_color=1c1710&color=f5e6c8&line=7ec850&point=f0c040&area=true&area_color=7ec850&hide_border=true" alt="Activity Graph" width="800"/>
-</p>
-
 ---
 
-<h2>🌾 Tecnologias</h2>
+<h2>Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,spring,nestjs,java,python" alt="Tech Stack"/>
@@ -165,7 +173,6 @@ print(f"Sol: {M_sun}")
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karimoreira&color=7ec850&style=flat-square&label=🌱+Visitantes" alt="Profile Views"/>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/karimoreira/"><img src="https://img.shields.io/badge/GitHub-karimoreira-f5e6c8?style=for-the-badge&logo=github&logoColor=f5e6c8&labelColor=1c1710&color=6b5530" alt="GitHub"/></a>
