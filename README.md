@@ -61,7 +61,6 @@
 ### Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=gcp" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 
@@ -97,8 +96,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karimoreira&label=Profile%20views&color=2563eb&style=flat" />
-</p>
 
 
