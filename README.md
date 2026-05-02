@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Atuo em projetos de front-end, back-end e também em contextos ligados a Astropy e computação aplicada.
+  I work on front-end and back-end projects, as well as in contexts related to Astropy and applied computing.
 </p>
 
 
