@@ -1,7 +1,11 @@
 <div align="center">
-  <h3>Hi there, I'm a Brazilian software developer</h3>
+  <h3>Olá, sou desenvolvedor de software</h3>
   <p>
-    I build secure, scalable solutions across both <b>front-end</b> and <b>back-end</b> environments.<br>
-    I am also deeply involved in contexts related to <b>Astropy</b> and <b>applied computing</b>.
+    Construo soluções seguras e escaláveis em ambientes <b>front-end</b> e <b>back-end</b>.<br>
+    Meus maiores focos são <b>Ciência da Computação</b>, <b>Engenharia de Software</b> e <b>Cloud Computing</b>.
+  </p>
+  
+  <p>
+    🌱 <b>Atualmente estudando:</b> C#, .NET, Java e Angular
   </p>
 </div>
